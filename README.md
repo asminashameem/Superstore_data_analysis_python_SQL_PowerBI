@@ -31,7 +31,6 @@ Data Analytics Portfolio — Python, SQL &amp; Power BI projects featuring data 
 13. [Limitations & Future Work](#13-limitations--future-work)
 14. [Repository Structure](#14-repository-structure)
 15. [How to Run This Project](#15-how-to-run-this-project)
-16. [Author](#16-author)
 
 ---
 
@@ -253,7 +252,10 @@ Quick aggregations and charts were used to understand the data before writing SQ
 ### Charts created
 Discount vs. profit scatter · sales by category · profit and sales by region · profit by sub-category · top 10 states by sales · monthly sales trend · profit by segment · sales share by ship mode.
 
-> 📸 *Add your best 2 or 3 chart screenshots here, e.g.:* `![Discount vs Profit](images/discount_vs_profit.png)`
+><img width="404" height="278" alt="image" src="https://github.com/user-attachments/assets/4a3107ad-5789-4f83-a22d-4f9c46441857" />
+
+><img width="436" height="264" alt="image" src="https://github.com/user-attachments/assets/c8d6de54-1437-45b1-ab92-fcca8e950ccd" />
+
 
 ---
 
